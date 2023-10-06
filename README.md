@@ -4,6 +4,7 @@ I am Alex, a software developer at [Givt](https://givtapp.net/) with a burning p
 
 ## 💻 Experienced with the following
 
+![Android](https://img.shields.io/badge/Android-%2302569B.svg?style=for-the-badge&logo=Android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
