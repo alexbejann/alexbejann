@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Alex, a software developer at [Givt](https://givtapp.net/) with a burning passion for social engagement. When I'm not playing my guitar, you'll find me immersing myself in the [Dutch Flutter Community](https://flutternl.org/), exchanging valuable insights, and fostering connections with fellow enthusiasts.
+I am Alex, a software developer. When I'm not playing my guitar, you'll find me at [Dutch Flutter Community](https://flutternl.org/), exchanging valuable insights, and fostering connections with fellow enthusiasts.
 
 ## 💻 Experienced with the following
 
