@@ -23,7 +23,6 @@ I am Alex, a software developer. When I'm not playing my guitar, you'll find me 
 
 [![alexbejann's Github Stats](https://github-readme-stats.vercel.app/api?username=alexbejann&count_private=true&theme=default&show_icons=true)](https://github.com/alexbejann)
 
-https://www.buymeacoffee.com/alexbejan4v
 ## Support me
 
 <div align="start">
