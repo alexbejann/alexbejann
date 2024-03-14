@@ -7,6 +7,7 @@ I am Alex, a software developer. When I'm not playing my guitar, you'll find me 
 ![Android](https://img.shields.io/badge/Android-%2302569B.svg?style=for-the-badge&logo=Android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-%2302569B.svg?style=for-the-badge&logo=angular&logoColor=red)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
