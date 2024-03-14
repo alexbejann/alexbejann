@@ -2,7 +2,7 @@
 
 I am Alex, a software developer. When I'm not playing my guitar, you'll find me at [Dutch Flutter Community](https://flutternl.org/), exchanging valuable insights, and fostering connections with fellow enthusiasts.
 
-## 💻 Experienced with the following
+## 💻 Experienced with
 
 ![Android](https://img.shields.io/badge/Android-%2302569B.svg?style=for-the-badge&logo=Android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
