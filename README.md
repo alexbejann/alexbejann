@@ -22,3 +22,14 @@ I am Alex, a software developer. When I'm not playing my guitar, you'll find me 
 ### Github Stats
 
 [![alexbejann's Github Stats](https://github-readme-stats.vercel.app/api?username=alexbejann&count_private=true&theme=default&show_icons=true)](https://github.com/alexbejann)
+
+https://www.buymeacoffee.com/alexbejan4v
+## Support me
+
+<div align="start">
+    <a href="https://www.buymeacoffee.com/alexbejan4v" target="_blank" style="display: inline-block;">
+        <img
+            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+            align="center"
+        />
+  </a></div>
